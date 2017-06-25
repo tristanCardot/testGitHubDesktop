@@ -2,4 +2,5 @@ foobar
 
 dev
 
+feature2
 master
