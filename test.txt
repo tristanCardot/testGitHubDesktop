@@ -2,6 +2,6 @@ foobar
 hotfix1
 dev
 feature1
-
+feature3
 feature2
 master
