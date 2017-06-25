@@ -1,5 +1,6 @@
 foobar
 
 dev
+feature1
 
 master
