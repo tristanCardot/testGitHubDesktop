@@ -1,5 +1,6 @@
 foobar
 hotfix1
 dev
+feature1
 
 master
