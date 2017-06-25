@@ -3,4 +3,5 @@ hotfix1
 dev
 feature1
 
+feature2
 master
